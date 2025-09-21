@@ -1,0 +1,21 @@
+export const allGiftCards = [
+  
+  { id: "1",  name: "Amazon", image: require("../assets/images/amazon.jpg"), price: 50, description: "Amazon Gift Card" },
+  { id: "2",  name: "Google Play", image: require("../assets/images/googleplay.jpg"), price: 25, description: "Google Play Gift Card" },
+  { id: "3",  name: "Apple", image: require("../assets/images/apple.webp"), price: 100, description: "Apple Gift Card" },
+  { id: "4",  name: "Steam", image: require("../assets/images/steam.jpg"), price: 20, description: "Steam Gift Card" },
+  { id: "5",  name: "Netflix", image: require("../assets/images/netflix.webp"), price: 30, description: "Netflix Gift Card" },
+  { id: "6",  name: "Spotify", image: require("../assets/images/spotify.jpg"), price: 15, description: "Spotify Gift Card" },
+  { id: "7", name: "Playstation", image: require("../assets/images/playstation.png"), price: 50, description: "Playstation Gift Card" },
+  { id: "8", name: "Xbox", image: require("../assets/images/xbox.webp"), price: 25, description: "Xbox Gift Card" },
+  { id: "9", name: "Pubg", image: require("../assets/images/pubg.jpg"), price: 100, description: "Pubg Gift Card" },
+  { id: "10", name: "Audiomack", image: require("../assets/images/audiomack.png"), price: 20, description: "Audiomack Gift Card" },
+  { id: "11", name: "Roblox", image: require("../assets/images/roblox.jpg"), price: 30, description: "Roblox Gift Card" },
+  { id: "12",name: "Call of Duty: Mobile", image: require("../assets/images/callofduty.jpg"), price: 15, description: "Call of Duty: Mobile Gift Card" },
+  { id: "13",name: "Adidas", image: require("../assets/images/adidas.jpg"), price: 100, description: "Adidas Gift Card" },
+  { id: "14",name: "Boomplay", image: require("../assets/images/boomplay.webp"), price: 20, description: "Boomplay Gift Card" },
+  { id: "15",name: "Fortnite", image: require("../assets/images/fortnite.jpg"), price: 30, description: "Fortnite V-Bucks Gift Card" },
+  { id: "16",name: "Nintendo", image: require("../assets/images/nintendo.webp"), price: 15, description: "Nintendo Gift Card" },
+  { id: "17",name: "Gamestop", image: require("../assets/images/gamestop.avif"), price: 50, description: "GameStop Gift Card" },
+  { id: "18",name: "Nike", image: require("../assets/images/nike.jpg"), price: 25, description: "Nike Gift Card" },
+];
