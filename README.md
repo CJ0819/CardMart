@@ -96,10 +96,10 @@ Replace the placeholder apiKey with your actual Firebase Auth API key from the F
 Open src/screens/Payment.tsx (or the relevant payment component file).
 Insert your Paystack public key into the initialization code. Ensure you're using the test key for development.
 Join our community of developers creating universal apps.
-<img width="600" height="1000" alt="Simulator Screenshot - iPhone 11 - 2025-09-21 at 20 57 44" src="https://github.com/user-attachments/assets/43317445-fa43-44df-b6f7-fbfd603b1418" />
-<img width="600" height="1000" alt="Simulator Screenshot - iPhone 11 - 2025-09-21 at 20 58 04" src="https://github.com/user-attachments/assets/56afbae1-cc15-4b54-b186-ce533e656995" />
-<img width="600" height="1000" alt="Simulator Screenshot - iPhone 11 - 2025-09-21 at 20 58 14" src="https://github.com/user-attachments/assets/d60c16c2-7017-459b-869a-a2ec4949fcaa" />
-<img width="600" height="1000" alt="Simulator Screenshot - iPhone 11 - 2025-09-21 at 20 58 22" src="https://github.com/user-attachments/assets/f9cbc641-8510-4cf2-9646-b9cba13343ea" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 11 - 2025-09-21 at 20 57 44" src="https://github.com/user-attachments/assets/43317445-fa43-44df-b6f7-fbfd603b1418" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 11 - 2025-09-21 at 20 58 04" src="https://github.com/user-attachments/assets/56afbae1-cc15-4b54-b186-ce533e656995" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 11 - 2025-09-21 at 20 58 14" src="https://github.com/user-attachments/assets/d60c16c2-7017-459b-869a-a2ec4949fcaa" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 11 - 2025-09-21 at 20 58 22" src="https://github.com/user-attachments/assets/f9cbc641-8510-4cf2-9646-b9cba13343ea" />
 
 
 
